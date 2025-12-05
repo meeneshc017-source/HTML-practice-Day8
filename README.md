@@ -53,15 +53,6 @@ I recreated the Amazon India homepage layout using only HTML & CSS, focusing on 
 
 ---
 
-## 📂 Folder Structure
-
-- amazon-clone/
-- │── index.html
-- │── style.css
-- │── images/
-- └── README.md
-
----
 
 ## 🚀 How to Run
 
